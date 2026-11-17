@@ -4,7 +4,7 @@ Este é o projeto final de Front-end da formação **Geração Tech 4.0**, uma i
 
 O objetivo do projeto foi desenvolver uma aplicação web completa e responsiva de e-commerce, baseada no design "DRIP STORE" disponibilizado no Figma. A aplicação simula uma loja virtual real, consumindo dados de produtos através de uma API e gerenciando o estado do carrinho de compras.
 
-🔗 **Link do Projeto Online:** [Em breve - Após o deploy]
+🔗 **[Link do Projeto Online:](https://drip-store-frontend-sigma.vercel.app/)**
 
 ## 🚀 Tecnologias Utilizadas
 

@@ -1,5 +1,4 @@
 import type { ReactNode } from "react";
-import { FiStar } from "react-icons/fi";
 import { FaStar, FaStarHalfAlt, FaRegStar } from "react-icons/fa";
 
 interface BuyBoxProps {

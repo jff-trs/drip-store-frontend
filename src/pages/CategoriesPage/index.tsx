@@ -1,4 +1,3 @@
-import Section from "../../components/Section";
 import { Link } from "react-router-dom";
 
 export default function CategoriesPage() {

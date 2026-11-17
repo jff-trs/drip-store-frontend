@@ -59,4 +59,3 @@ npm run dev
 
 ---
 *Projeto desenvolvido para fins educacionais.*
-```

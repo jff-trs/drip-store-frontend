@@ -75,7 +75,7 @@ export default function Footer() {
             </div>
           </div>
 
-          <div className="flex gap-[80px]">
+          <div className="flex flex-col sm:flex-row flex-wrap gap-8 sm:gapp-[100px]">
             <div className="w-[135px]">
               <FooterInfo title="Informações" informations={infosCol1} />
             </div>
